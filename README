@@ -1,0 +1,9 @@
+sudo apt-get install git	!Installing Github on Ubuntu system
+
+git config --global user.name "Bennaah"	!Configuring Github username
+git config --global user.email "benjaminlervik@hotmail.com"	!Configuring Github email
+
+git init Mytest	!Creating a folder on system
+
+cd Mytest	!Moving to Mytest folder in terminal
+gedit README	!Creating this README textdocument
